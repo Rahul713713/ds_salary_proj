@@ -4,7 +4,7 @@ Created on Sun May 10 12:51:48 2020
 
 @author: admin
 """
-
+#Code for scraping data from Glassdoor
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
