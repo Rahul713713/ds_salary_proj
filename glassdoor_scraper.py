@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun May 10 12:51:48 2020
+author: Kenarapfaik
+url: https://github.com/arapfaik/scraping-glassdoor-selenium
 
-@author: admin
 """
 
 
