@@ -8,6 +8,10 @@ Created on Mon May 11 13:22:40 2020
 import pandas as pd
 df = pd.read_csv("glassdoor_jobs.csv")
 
+#######################################################################
+#######################SALARY PARSING##################################
+#######################################################################
+
 #To remove records which has no salary
 df = df[df['Salary Estimate'] != '-1']
 
